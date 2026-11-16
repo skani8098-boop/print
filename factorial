@@ -1,0 +1,25 @@
+package kanishka;
+import java.util.*;
+
+
+public class shift {
+
+	public static void main(String[] args) {
+				//sum
+		int n=5;
+		int fact=1;
+				for (int i=1;i<=n;i++) {
+					fact=fact*i;
+					
+				
+				
+					System.out.println("factorial="+fact);
+					
+					
+					
+				}
+				}
+}
+	
+
+
