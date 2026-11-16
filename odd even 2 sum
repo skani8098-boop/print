@@ -1,0 +1,23 @@
+package kanishka;
+import java.util.*;
+
+
+public class shift {
+
+	public static void main(String[] args) {
+				//sum
+		int sum=0;
+				for (int i=1;i<=50;i+=2) {
+					sum=sum+i;
+				
+				
+					System.out.println("sum="+sum);
+					
+					
+					
+				}
+				}
+}
+	
+
+
