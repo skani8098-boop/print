@@ -1,0 +1,18 @@
+package kanishka;
+import java.util.*;
+
+
+public class shift {
+
+	public static void main(String[] args) {
+				//even number
+				for (int i=2;i<=50;i+=2) {
+					System.out.println(i);
+					
+					
+				}
+				}
+
+	}
+
+
